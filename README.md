@@ -4,11 +4,13 @@ CSS, HTML, JavaScript, web development, and generally programming jokes.
 Pull requests are gladly welcomed! Please follow the general commit style.
 
 * CSS
-  * ```css
+
+    ```css
     .titanic {
       float: none
     }
     ```
+
 * HTML
 * JavaScript
   * `['HIP', 'HIP']`
