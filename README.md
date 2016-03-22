@@ -4,6 +4,7 @@ CSS, HTML, JavaScript, web development, and generally programming jokes.
 Pull requests are gladly welcomed! Please follow the general commit style.
 
 * CSS
+  * http://saijogeorge.com/css-puns/
 
     ```css
     .titanic {
