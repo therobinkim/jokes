@@ -15,6 +15,7 @@ CSS
 HTML
 
 JavaScript
+* `Array(16).join('wat' - 1) + ' Batman!'` ([mp4](https://www.destroyallsoftware.com/talks/wat)) from [Destroy All Software](https://www.destroyallsoftware.com/talks/)
 * `['HIP', 'HIP']`
 
 Web Development
