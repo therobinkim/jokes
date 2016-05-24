@@ -18,8 +18,8 @@ JavaScript
 * `['HIP', 'HIP']`
 
 Web Development
-* Front End Engineer vs Back End Engineer [jpg](http://i.imgur.com/J7qr0sk.jpg)
+* Front End Engineer vs Back End Engineer ([jpg](http://i.imgur.com/J7qr0sk.jpg))
 
 General
-* Cuz if I didn't write it, the code obviously sucks [png](http://abstrusegoose.com/strips/you_down_wit_OPC-yeah_you_know_me.png) from [Abstruse Goose](http://abstrusegoose.com/432)
-* Señor Developer [gif, static](http://i.imgur.com/9Ecv1EZ.gif =200x)
+* Cuz if I didn't write it, the code obviously sucks ([png](http://abstrusegoose.com/strips/you_down_wit_OPC-yeah_you_know_me.png)) from [Abstruse Goose](http://abstrusegoose.com/432)
+* Señor Developer ([gif, static](http://i.imgur.com/9Ecv1EZ.gif))
