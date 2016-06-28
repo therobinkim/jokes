@@ -27,3 +27,4 @@ Web Development
 General
 * Cuz if I didn't write it, the code obviously sucks ([png](http://abstrusegoose.com/strips/you_down_wit_OPC-yeah_you_know_me.png)) from [Abstruse Goose](http://abstrusegoose.com/432)
 * Señor Developer ([gif, static](http://i.imgur.com/9Ecv1EZ.gif))
+* My code doesn't work, I have no idea why. My code works, I still have no idea why.
