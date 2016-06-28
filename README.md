@@ -12,6 +12,9 @@ CSS
   }
   ```
 
+Git
+* EugeneKay's git jokes ([GitHub](https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt))
+
 HTML
 
 JavaScript
